@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData xmlns="rimworld.schemas.modMetaData">
+  <packageId>trollam.BlendedBrickWalls</packageId>
+  <name>[TRM] Blended Brick Walls</name>
+  <author>Trollam</author>
+  <modVersion>1.0</modVersion>
+  <url>https://github.com/Trollam/EliteBionicFrameworkPatches</url>
+  <description>Brick walls no longer shift the colors</description>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+  </loadAfter>
+</ModMetaData>
