@@ -9,6 +9,7 @@
   <description>Brick walls no longer shift the colors</description>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <loadAfter>
     <li>Ludeon.RimWorld</li>
